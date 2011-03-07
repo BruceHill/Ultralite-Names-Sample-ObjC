@@ -1,0 +1,540 @@
+Tnames
+v7
+r0
+t321225033.978567
+cCheck dependencies
+cProcessInfoPlistFile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/Info.plist names-Info.plist
+cCompileXIB /Users/brucehill/Documents/names/MainWindow.xib
+cCompileXIB /Users/brucehill/Documents/names/RootViewController.xib
+cCompileXIB /Users/brucehill/Documents/names/Classes/NewNameViewController.xib
+cProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch.gch names_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o /Users/brucehill/Documents/names/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o /Users/brucehill/Documents/names/Classes/namesAppDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o /Users/brucehill/Documents/names/Classes/RootViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/DataAccess.o /Users/brucehill/Documents/names/Classes/DataAccess.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/NewNameViewController.o /Users/brucehill/Documents/names/Classes/NewNameViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names normal i386
+cGenerateDSYMFile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app.dSYM /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names
+cTouch /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app
+
+N/Applications/SQLAnywhere12/sdk/include/poppk.h
+c000000004D5AC2EF000000000000085D
+t1297793775
+s2141
+
+N/Applications/SQLAnywhere12/sdk/include/pshpk1.h
+c000000004D5AC2EF00000000000008DC
+t1297793775
+s2268
+
+N/Applications/SQLAnywhere12/sdk/include/pshpk4.h
+c000000004D5AC2EF00000000000008CA
+t1297793775
+s2250
+
+N/Applications/SQLAnywhere12/sdk/include/sqlca.h
+c000000004D5AC2EF0000000000002A17
+t1297793775
+s10775
+i"sqlos.h"
+i<stddef.h>
+i"pshpk1.h"
+i"poppk.h"
+i"pshpk4.h"
+i"poppk.h"
+i"pshpk1.h"
+i"sqlcallback.h"
+i"poppk.h"
+i"sqlfuncs.h"
+i"sqlfuncs.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlcallback.h
+c000000004D5AC2EF000000000000088E
+t1297793775
+s2190
+i"sqlos.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlda.h
+c000000004D5AC2EF0000000000000998
+t1297793775
+s2456
+i"sqlca.h"
+i"pshpk1.h"
+i"poppk.h"
+i"pshpk4.h"
+i"poppk.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqldef.h
+c000000004D5AC2EF0000000000001BB9
+t1297793775
+s7097
+i"sqlca.h"
+i"sqlda.h"
+i"sqlerr.h"
+i"sqlstate.h"
+i"pshpk1.h"
+i"sqlhosttype.h"
+i"poppk.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlerr.h
+c000000004D5AC2EF0000000000010187
+t1297793775
+s65927
+
+N/Applications/SQLAnywhere12/sdk/include/sqlfuncs.h
+c000000004D5AC2EF0000000000002480
+t1297793775
+s9344
+
+N/Applications/SQLAnywhere12/sdk/include/sqlhosttype.h
+c000000004D5AC2EF00000000000009A5
+t1297793775
+s2469
+
+N/Applications/SQLAnywhere12/sdk/include/sqlos.h
+c000000004D5AC2EF00000000000011FC
+t1297793775
+s4604
+
+N/Applications/SQLAnywhere12/sdk/include/sqlstate.h
+c000000004D5AC2EF0000000000010099
+t1297793775
+s65689
+
+N/Applications/SQLAnywhere12/sdk/include/sqltype.h
+c000000004D5AC2EF0000000000000B93
+t1297793775
+s2963
+i"sqlos.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sserror.h
+c000000004D5AC2EF0000000000002D56
+t1297793775
+s11606
+i"sqltype.h"
+i"uldef.h"
+i<stdlib.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulcpp.h
+c000000004D5AC2EF000000000001D33E
+t1297793775
+s119614
+i"ulglobal.h"
+i<stdarg.h>
+
+N/Applications/SQLAnywhere12/sdk/include/uldef.h
+c000000004D5AC2EF0000000000000223
+t1297793775
+s547
+i<stdlib.h>
+i<windef.h>
+i<stddef.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulglobal.h
+c000000004D5AC2EF000000000000B34C
+t1297793775
+s45900
+i"uldef.h"
+i"sqldef.h"
+i"sqltype.h"
+i"sserror.h"
+i"ulprotos.h"
+i"ulsqlfuncs.h"
+
+N/Applications/SQLAnywhere12/sdk/include/ulprotos.h
+c000000004D5AC2EF0000000000013DA6
+t1297793775
+s81318
+i<stdarg.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulsqlfuncs.h
+c000000004D5AC2EF00000000000026CC
+t1297793775
+s9932
+
+N/Applications/SQLAnywhere12/ultralite/iphone/libulrt.a
+c000000004D5C0C9E0000000000378DB0
+t1297878174
+s3640752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D345A990000000000000132
+t1295276697
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BFDFE57000000000018BC00
+t1274936919
+s1620992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004BFDFDAD000000000007AFF0
+t1274936749
+s503792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Users/brucehill/Documents/names/Classes/DataAccess.h
+c000000004D74CCB10000000000000229
+t1299500209
+s553
+i<Foundation/Foundation.h>
+i"ulcpp.h"
+
+N/Users/brucehill/Documents/names/Classes/DataAccess.mm
+c000000004D74DFF00000000000001555
+t1299505136
+s5461
+i"DataAccess.h"
+
+N/Users/brucehill/Documents/names/Classes/NewNameViewController.h
+c000000004D749AE30000000000000165
+t1299487459
+s357
+i<UIKit/UIKit.h>
+
+N/Users/brucehill/Documents/names/Classes/NewNameViewController.m
+c000000004D74A89F00000000000007B6
+t1299490975
+s1974
+i"NewNameViewController.h"
+i"DataAccess.h"
+
+N/Users/brucehill/Documents/names/Classes/NewNameViewController.xib
+c000000004D74A1DD0000000000004A09
+t1299489245
+s18953
+
+N/Users/brucehill/Documents/names/Classes/RootViewController.h
+c000000004D74A4440000000000000105
+t1299489860
+s261
+i<UIKit/UIKit.h>
+
+N/Users/brucehill/Documents/names/Classes/RootViewController.m
+c000000004D74DAC4000000000000134E
+t1299503812
+s4942
+i"RootViewController.h"
+i"DataAccess.h"
+i"NewNameViewController.h"
+
+N/Users/brucehill/Documents/names/Classes/namesAppDelegate.h
+c000000004D7482CC00000000000001CD
+t1299481292
+s461
+i<UIKit/UIKit.h>
+
+N/Users/brucehill/Documents/names/Classes/namesAppDelegate.m
+c000000004D7498180000000000000A6D
+t1299486744
+s2669
+i"namesAppDelegate.h"
+i"RootViewController.h"
+i"DataAccess.h"
+
+N/Users/brucehill/Documents/names/MainWindow.xib
+c000000004D7482CC0000000000005FEC
+t1299481292
+s24556
+
+N/Users/brucehill/Documents/names/RootViewController.xib
+c000000004D7482CC0000000000004450
+t1299481292
+s17488
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app
+t1299505137
+s272
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app.dSYM
+t1299505137
+s102
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/Info.plist
+t1299483956
+s583
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/MainWindow.nib
+t1299483963
+s1507
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/NewNameViewController.nib
+t1299490268
+s1403
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/PkgInfo
+t1299483956
+s8
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/RootViewController.nib
+t1299483963
+s979
+
+N/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names
+t1299505137
+s1093860
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/DataAccess.o
+t1299505137
+s83192
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/NewNameViewController.o
+t1299503814
+s73520
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o
+t1299503814
+s77152
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o
+t1299483967
+s6516
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/names.LinkFileList
+c000000004D74A5DA0000000000000261
+t1299490266
+s609
+
+N/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o
+t1299503813
+s84884
+
+N/Users/brucehill/Documents/names/main.m
+c000000004D7482CC0000000000000167
+t1299481292
+s359
+i<UIKit/UIKit.h>
+
+N/Users/brucehill/Documents/names/names_Prefix.pch
+c000000004D7482CC000000000000013C
+t1299481292
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-aaemtbayttmjohalnvzrkvcqrugg/names_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-aioprqxwqeafjafksgavwupmjlbd/names_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch.gch
+t1299483967
+s16247696
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-gogcrfdtkscbwuhdtlxrhyvsvhbq/names_Prefix.pch.gch
+t2
+s0
+
+Nnames-Info.plist
+c000000004D7482CC000000000000038D
+t1299481292
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321225033#321225033#0(0"0(0#1#0"8621304320#0"0#
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/DataAccess.o /Users/brucehill/Documents/names/Classes/DataAccess.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321197936.847760
+e321197937.177325
+r1
+xCompileC
+xbuild/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/DataAccess.o
+x/Users/brucehill/Documents/names/Classes/DataAccess.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/brucehill/Documents/names/Classes/DataAccess.mm321197936#321197937#0(0"0(0#0#54"/Users/brucehill/Documents/names/Classes/DataAccess.mm8610527584#1899"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch -c /Users/brucehill/Documents/names/Classes/DataAccess.mm -o /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/DataAccess.o0#
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/NewNameViewController.o /Users/brucehill/Documents/names/Classes/NewNameViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321196614.580341
+e321196614.950530
+r1
+xCompileC
+xbuild/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/NewNameViewController.o
+x/Users/brucehill/Documents/names/Classes/NewNameViewController.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/brucehill/Documents/names/Classes/NewNameViewController.m321196614#321196614#0(0"0(0#0#64"/Users/brucehill/Documents/names/Classes/NewNameViewController.m8609446912#1920"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch -c /Users/brucehill/Documents/names/Classes/NewNameViewController.m -o /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/NewNameViewController.o0#
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o /Users/brucehill/Documents/names/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o /Users/brucehill/Documents/names/Classes/RootViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321196612.786009
+e321196614.579609
+r1
+xCompileC
+xbuild/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o
+x/Users/brucehill/Documents/names/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/brucehill/Documents/names/Classes/RootViewController.m321196612#321196614#0(0"0(0#0#61"/Users/brucehill/Documents/names/Classes/RootViewController.m8610329760#1914"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch -c /Users/brucehill/Documents/names/Classes/RootViewController.m -o /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o /Users/brucehill/Documents/names/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o /Users/brucehill/Documents/names/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321176767.473774
+e321176767.697104
+r1
+xCompileC
+xbuild/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o
+x/Users/brucehill/Documents/names/main.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/brucehill/Documents/names/main.m321176767#321176767#0(0"0(0#0#39"/Users/brucehill/Documents/names/main.m8610481920#1878"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch -c /Users/brucehill/Documents/names/main.m -o /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/main.o0#
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o /Users/brucehill/Documents/names/Classes/namesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o /Users/brucehill/Documents/names/Classes/namesAppDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321196612.784958
+e321196614.184594
+r1
+xCompileC
+xbuild/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o
+x/Users/brucehill/Documents/names/Classes/namesAppDelegate.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/brucehill/Documents/names/Classes/namesAppDelegate.m321196612#321196614#0(0"0(0#0#59"/Users/brucehill/Documents/names/Classes/namesAppDelegate.m8610729792#1910"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch -c /Users/brucehill/Documents/names/Classes/namesAppDelegate.m -o /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/namesAppDelegate.o0#
+
+CCompileXIB /Users/brucehill/Documents/names/Classes/NewNameViewController.xib
+s321183066.329810
+e321183068.945129
+r1
+xCompileXIB
+x/Users/brucehill/Documents/names/Classes/NewNameViewController.xib
+lSLF07#2@44"CompileXIB Classes/NewNameViewController.xib321183066#321183068#0(0"0(0#0#66"/Users/brucehill/Documents/names/Classes/NewNameViewController.xib8611412768#580"    cd /Users/brucehill/Documents/names    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/NewNameViewController.nib /Users/brucehill/Documents/names/Classes/NewNameViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/brucehill/Documents/names/MainWindow.xib
+s321176756.745094
+e321176763.255815
+r1
+xCompileXIB
+x/Users/brucehill/Documents/names/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321176756#321176763#0(0"0(0#0#47"/Users/brucehill/Documents/names/MainWindow.xib8609358528#550"    cd /Users/brucehill/Documents/names    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/MainWindow.nib /Users/brucehill/Documents/names/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/brucehill/Documents/names/RootViewController.xib
+s321176756.765613
+e321176763.186766
+r1
+xCompileXIB
+x/Users/brucehill/Documents/names/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib321176756#321176763#0(0"0(0#0#55"/Users/brucehill/Documents/names/RootViewController.xib8609000352#566"    cd /Users/brucehill/Documents/names    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/RootViewController.nib /Users/brucehill/Documents/names/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app.dSYM /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names
+s321197937.493674
+e321197937.574081
+r1
+xGenerateDSYMFile
+x/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app.dSYM
+x/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/names.app.dSYM build/Debug-iphonesimulator/names.app/names321197937#321197937#0(0"0(0#0#76"/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names8613297120#359"    cd /Users/brucehill/Documents/names    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names -o /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app.dSYM0#
+
+CLd /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names normal i386
+s321197937.177413
+e321197937.493551
+r1
+xLd
+x/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names
+xnormal
+xi386
+lSLF07#2@81"Link /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names321197937#321197937#0(0"0(0#0#0"8613743776#955"    cd /Users/brucehill/Documents/names    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/brucehill/Documents/names/build/Debug-iphonesimulator -L/Applications/SQLAnywhere12/ultralite/iphone -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -filelist /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/Objects-normal/i386/names.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lulrt -framework CFNetwork -framework Security -o /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/names0#
+
+CProcessInfoPlistFile /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/Info.plist names-Info.plist
+s321176756.536864
+e321176756.744977
+r1
+xProcessInfoPlistFile
+x/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/Info.plist
+xnames-Info.plist
+lSLF07#2@24"Process names-Info.plist321176756#321176756#0(0"0(0#0#49"/Users/brucehill/Documents/names/names-Info.plist32933040433463412#455"    cd /Users/brucehill/Documents/names    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility names-Info.plist -genpkginfo /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app/Info.plist0#
+
+CProcessPCH /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-aaemtbayttmjohalnvzrkvcqrugg/names_Prefix.pch.gch names_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-aioprqxwqeafjafksgavwupmjlbd/names_Prefix.pch.gch names_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-gogcrfdtkscbwuhdtlxrhyvsvhbq/names_Prefix.pch.gch names_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch.gch names_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s321176763.275710
+e321176767.473568
+r1
+xProcessPCH++
+x/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch.gch
+xnames_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile names_Prefix.pch321176763#321176767#0(0"0(0#0#49"/Users/brucehill/Documents/names/names_Prefix.pch8604151168#1778"    cd /Users/brucehill/Documents/names    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DUNDER_IPHONE -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-generated-files.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-own-target-headers.hmap -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-all-target-headers.hmap -iquote /Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/names-project-headers.hmap -F/Users/brucehill/Documents/names/build/Debug-iphonesimulator -iquote/Applications/SQLAnywhere12/sdk/include -I/Users/brucehill/Documents/names/build/Debug-iphonesimulator/include -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources/i386 -I/Users/brucehill/Documents/names/build/names.build/Debug-iphonesimulator/names.build/DerivedSources -c /Users/brucehill/Documents/names/names_Prefix.pch -o /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/names_Prefix-dlxefdzehncglpglsevhxruleasp/names_Prefix.pch.gch0#
+
+CTouch /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app
+s321197937.574173
+e321197937.576864
+r1
+xTouch
+x/Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app
+lSLF07#2@76"Touch /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app321197937#321197937#0(0"0(0#0#0"8613072608#264"    cd /Users/brucehill/Documents/names    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/brucehill/Documents/names/build/Debug-iphonesimulator/names.app0#
+

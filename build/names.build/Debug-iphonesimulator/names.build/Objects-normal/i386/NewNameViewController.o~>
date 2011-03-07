@@ -1,0 +1,5 @@
+/Users/brucehill/Documents/names/Classes/NewNameViewController.m: In function 'void -[NewNameViewController doneAdding:](NewNameViewController*, objc_selector*, objc_object*)':
+/Users/brucehill/Documents/names/Classes/NewNameViewController.m:19: warning: 'DataAccess' may not respond to '-addName:'
+/Users/brucehill/Documents/names/Classes/NewNameViewController.m:19: warning: (Messages without a matching method signature
+/Users/brucehill/Documents/names/Classes/NewNameViewController.m:19: warning: will be assumed to return 'id' and accept
+/Users/brucehill/Documents/names/Classes/NewNameViewController.m:19: warning: '...' as arguments.)

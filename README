@@ -1,0 +1,3 @@
+This is a sample application using the Sybase Ultralite library to create and connect to an Ultralite database. This application shows a UITableView with a list of names, loaded from the database and then a plus icon which allows new names to be added to the database.
+
+This sample was setup up as a starting point for understanding how the Ultralite library work, with the intention of getting this functionality working in a MonoTouch solution.

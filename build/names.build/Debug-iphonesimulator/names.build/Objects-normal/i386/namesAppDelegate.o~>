@@ -1,0 +1,5 @@
+/Users/brucehill/Documents/names/Classes/namesAppDelegate.m: In function 'void -[namesAppDelegate applicationWillTerminate:](namesAppDelegate*, objc_selector*, UIApplication*)':
+/Users/brucehill/Documents/names/Classes/namesAppDelegate.m:66: warning: 'DataAccess' may not respond to '+fini'
+/Users/brucehill/Documents/names/Classes/namesAppDelegate.m:66: warning: (Messages without a matching method signature
+/Users/brucehill/Documents/names/Classes/namesAppDelegate.m:66: warning: will be assumed to return 'id' and accept
+/Users/brucehill/Documents/names/Classes/namesAppDelegate.m:66: warning: '...' as arguments.)
